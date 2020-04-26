@@ -1,5 +1,4 @@
-# cursor
-Tim Schafer's Caps Lock Cursor App
+# Tim Schafer's Caps Lock Cursor App
 
 Sorry it took so long, I fell asleep last night.
 
