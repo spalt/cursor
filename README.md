@@ -8,4 +8,4 @@ Replace "cursor-capson.cur" with your favorite cursor file to indicate the caps-
 
 Replace "cursor.cur" with the normal, non-caps-lock cursor.
 
-A great place to get cur files is http://www.rw-designer.com/cursor-library
+A great place to get cur files is http://www.rw-designer.com/cursor-library, or, there's a bunch in %SystemRoot%\cursors
