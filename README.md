@@ -1,0 +1,2 @@
+# cursor
+Caps lock cursor
